@@ -1,0 +1,5 @@
+This is just a new file.
+It doesn't do much. Is just a way to explain how feature branches work.
+
+I hope makes sense.
+
